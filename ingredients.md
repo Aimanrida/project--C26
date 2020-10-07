@@ -1,0 +1,11 @@
+wheat flour,
+sugar,
+soy oil,
+salt,
+yeast,
+tomato,
+olives,
+mozzarella cheese,
+tomato sauce,
+onions,
+sweet corn.
